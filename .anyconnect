@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectPreferences>
+<DefaultUser>60126606</DefaultUser>
+<DefaultSecondUser></DefaultSecondUser>
+<ClientCertificateThumbprint></ClientCertificateThumbprint>
+<MultipleClientCertificateThumbprints></MultipleClientCertificateThumbprints>
+<ServerCertificateThumbprint></ServerCertificateThumbprint>
+<DefaultHostName>sslvpn.leroymerlin.ru</DefaultHostName>
+<DefaultHostAddress></DefaultHostAddress>
+<DefaultGroup>Default</DefaultGroup>
+<ProxyHost></ProxyHost>
+<ProxyPort></ProxyPort>
+<SDITokenType>none</SDITokenType>
+<ControllablePreferences>
+<BlockUntrustedServers>false</BlockUntrustedServers></ControllablePreferences>
+</AnyConnectPreferences>
